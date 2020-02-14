@@ -14,5 +14,6 @@
 
 def speak_to_grandma(phrase = "Hi, Grandma!") 
   puts phrase
-  if (phrase == phrase.toUpperCase
+  if (phrase == phrase.toUpperCase()
+    return "NO, NOT SINCE 1938!")
 end
