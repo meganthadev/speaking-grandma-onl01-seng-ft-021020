@@ -18,5 +18,5 @@ def speak_to_grandma(phrase = "Hi, Grandma!")
     return "NO, NOT SINCE 1938!"}
   else 
    if (phrase == "I LOVE YOU GRANDMA!") {
-            alert ('upper case true');
+            return 'upper case true'
 end
