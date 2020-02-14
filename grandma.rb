@@ -17,6 +17,6 @@ def speak_to_grandma(phrase = "Hi, Grandma!")
   if (phrase == phrase.toUpperCase()) {
     return "NO, NOT SINCE 1938!"}
   else 
-   if (character == character.toUpperCase()) {
+   if (phrase == phrase.toUpperCase()) {
             alert ('upper case true');
 end
