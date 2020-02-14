@@ -12,7 +12,7 @@
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
 
-def speak_to_grandma(phrase) 
-  puts "Hi, Grandma!"
-  if 
+def speak_to_grandma(phrase = "Hi, Grandma!") 
+  puts phrase
+  if phrase 
 end
